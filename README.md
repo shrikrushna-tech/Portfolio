@@ -162,7 +162,7 @@ To change the **color theme**, update the CSS variables at the top:
 |----------|------|
 | 📧 Email | shrikrushna.satav@email.com |
 | 💼 LinkedIn | [linkedin.com/in/shrikrushna-satav](https://linkedin.com/in/shrikrushna-satav) |
-| 🐙 GitHub | [github.com/shrikrushna-satav](https://github.com/shrikrushna-satav) |
+| 🐙 GitHub | [github.com/shrikrushna-satav]([https://github.com/shrikrushna-satav](https://github.com/shrikrushna-tech/Portfolio)) |
 
 ---
 
